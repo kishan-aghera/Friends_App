@@ -1,24 +1,5 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is made from Ruby on Rails with bootstrap to tweak the UI.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Screenshots are added in the SS folder of the repository.
